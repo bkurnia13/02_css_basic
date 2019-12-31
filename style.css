@@ -3,9 +3,11 @@ h1 {
     font-size: 50px;
     font-variant: small-caps;
     font-style: italic;
+    color: #ff0000;
 }
 
 p {
     font-family: georgia, serif;
     font-weight: bold;
+    text-align: justify;
 }
