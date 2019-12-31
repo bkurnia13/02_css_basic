@@ -1,4 +1,9 @@
 h1 {
-    color: lightblue;
-    font-family: Arial;
+    font-family: arial, verdana, sans-serif;
+    font-size: 50px;
+    font-variant: small-caps;
+}
+
+p {
+    font-family: georgia, serif;
 }
